@@ -1,1 +1,2 @@
-"# BatteryApp" 
+"# Onsen UI example" 
+# OnsenUIExample
